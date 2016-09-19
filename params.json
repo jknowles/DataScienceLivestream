@@ -1,0 +1,6 @@
+{
+  "name": "Jared's Data Science Livestream",
+  "tagline": "I'm livestreaming myself doing data science - come watch!",
+  "body": "### What is this?\r\n\r\nI'm livestreaming myself doing data science. \r\n\r\n### What is the project?\r\n\r\nI'm attempting to import, clean, combine, and analyze dozens of years of FBI Uniform Crime Reports and other data associated with the criminal justice system in the United States. \r\n\r\n### What is on the livestream?\r\n\r\nJust me, my RStudio window, and my narration of my thought process as I work through a problem. \r\n\r\n### Where can I find it?\r\n\r\nGlad you asked. ",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
