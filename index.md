@@ -9,10 +9,10 @@ description: Watch a data scientist at work
 
 For the week of 09/19/2016 the plan is to stream:
 
-09/20 - 2pm - 3pm Eastern
-09/21 - 2pm - 3pm Eastern
-09/22 - 9:30am - 11am Eastern
-09/23 - 3pm - 4:30pm Eastern
+- 09/20 - 2pm - 3pm Eastern
+- 09/21 - 2pm - 3pm Eastern
+- 09/22 - 9:30am - 11am Eastern
+- 09/23 - 3pm - 4:30pm Eastern
 
 Check out my [Twitter account for updates](www.twitter.com/jknowles).
 
