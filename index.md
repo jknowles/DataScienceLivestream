@@ -48,7 +48,7 @@ on my [homepage](www.jaredknowles.com).
 Just me, my [RStudio](www.rstudio.com) window (set to use notebooks) and my intermittent narration
 of my thought process as I work through a problem.
 
-![Screencapture of me streaming](assests/rstream.PNG)
+![Screencapture of me streaming](assets/rstream.PNG)
 
 ### What data science are you doing?
 
