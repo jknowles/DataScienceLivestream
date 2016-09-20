@@ -13,7 +13,7 @@ I'm livestreaming myself doing data science.
 
 I'm attempting to import, clean, combine, and analyze dozens of years of FBI
 Uniform Crime Reports and other data associated with the criminal justice system
-in the United States.
+in the United States. [Read more](pages/project.html)
 
 ## What is on the livestream?
 
