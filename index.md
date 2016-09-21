@@ -25,6 +25,11 @@ You can learn about what the project I'm working on is [here](pages/project.html
 You can see why I'm streaming [here](pages/whystream.html) and you can have
 some other questions answered over on the [FAQ](pages/faq.html).
 
+### What's the latest?
+
+Here I'll catch you up on my progress so when you tune in you can see what I've
+done and where I'm at for the day. 
+
 #### 09/21/2016
 
 Today I plan on using some of the missing data flags in the dataset to apply
