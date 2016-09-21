@@ -14,7 +14,7 @@ For the week of 09/19/2016 the plan is to stream:
 - 09/22 - 9:30am - 11am Eastern
 - 09/23 - 3pm - 4:30pm Eastern
 
-Check out my [Twitter account for updates](www.twitter.com/jknowles).
+Check out my [Twitter account for updates](http://www.twitter.com/jknowles).
 
 ### Where can I find it?
 [YouTube Channel](https://www.youtube.com/user/debatemanjk)
@@ -41,11 +41,11 @@ diagnose these large administrative record sets.
 
 I'm a former data scientist for the state of Wisconsin who is now an independent
 statistical programming and research consultant. You can find out more about me
-on my [homepage](www.jaredknowles.com).
+on my [homepage](http://www.jaredknowles.com).
 
 ### What will I see on the livestream?
 
-Just me, my [RStudio](www.rstudio.com) window (set to use notebooks) and my intermittent narration
+Just me, my [RStudio](http://www.rstudio.com) window (set to use notebooks) and my intermittent narration
 of my thought process as I work through a problem.
 
 ![Screencapture of me streaming](assets/rstream.PNG)
