@@ -19,40 +19,31 @@ Check out my [Twitter account for updates](http://www.twitter.com/jknowles).
 ### Where can I find it?
 [YouTube Channel](https://www.youtube.com/user/debatemanjk)
 
-### What is this?
+### Where can I learn more?
 
-I'm livestreaming myself doing data science. You can find out more about
-[why I am livestreaming](pages/whystream.html) here, and about the project I
-am working on [here](pages/project.html).
+You can learn about what the project I'm working on is [here](pages/project.html).
+You can see why I'm streaming [here](pages/whystream.html) and you can have
+some other questions answered over on the [FAQ](pages/faq.html).
 
-### What project are you working on?
+#### 09/21/2016
 
-I'm attempting to import, clean, combine, and analyze dozens of years of FBI
-Uniform Crime Reports and other data associated with the criminal justice system
-in the United States. [Read more](pages/project.html)
+Today I plan on using some of the missing data flags in the dataset to apply
+custom rules for different missingness patterns. If this goes smoothly, I also
+intend to do some work identifying my own set of flags for missing patterns in the
+data. This will involve a lot of EDA work and some careful use of conditional and
+logical statements to come up with strong business logic that captures different
+cases.
 
-I'm not doing any "deep learning" or analyzing what you might think of as big data.
-I'm analyzing moderately sized public datasets using R. I'm not doing any machine
-learning as of yet, because that's really about 10% of being a data scientist.
-Right now I'm using the packages in the `tidyverse` to munge, reshape, clean, and
-diagnose these large administrative record sets.
+#### 09/20/2016
 
-### Who am I?
+On the stream today I worked on writing functions to interpolate data where an
+agency reported crime data annually or bi-annually. I built a function to fit
+a model to model month to month trends and then spread the annual data out
+across the months using that model.
 
-I'm a former data scientist for the state of Wisconsin who is now an independent
-statistical programming and research consultant. You can find out more about me
-on my [homepage](http://www.jaredknowles.com).
+I used a lot of `dplyr` and learned how to combine `mutate` and `mutate_` calls
+effectively to work with static and dynamic variable names within a pipeline.
 
-### What will I see on the livestream?
-
-Just me, my [RStudio](http://www.rstudio.com) window (set to use notebooks) and my intermittent narration
-of my thought process as I work through a problem.
-
-![Screencapture of me streaming](assets/rstream.PNG)
-
-### What data science are you doing?
-
-This week I'm mostly working on smoothing out inconsistencies in reporting by
-agency and year for common and known reporting irregularity. This involves
-writing a lot of logical statements, fitting some simple models, and smoothing
-the data out by applying those models.
+The stream itself was not that great -- I'm still working the bugs out on how to
+cast the screen at high enough resolution. I also need to do a little more talking
+to the audience and explain my thought process out loud occasionally.
