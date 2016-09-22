@@ -54,4 +54,10 @@ contextual data to help me understand the patterns in crime reporting.
 
 #### Modeling
 
-This is the final step. 
+Fitting models to explain patterns in the data.
+
+
+#### Visualization
+
+Explaining and exploring the models and findings above and sharing them with
+others. 

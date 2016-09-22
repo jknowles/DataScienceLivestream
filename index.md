@@ -28,16 +28,27 @@ some other questions answered over on the [FAQ](pages/faq.html).
 ### What's the latest?
 
 Here I'll catch you up on my progress so when you tune in you can see what I've
-done and where I'm at for the day. 
+done and where I'm at for the day.
+
+#### 09/22/2016
+
+Continuing the data cleaning theme today I am going to write code that identifies
+agencies that have their data reported by another agency. I will look at the
+different ways this occurs in the data (within year, across years, etc.) and
+then I will write some functions to clean this in different ways that I can
+apply when needed.
 
 #### 09/21/2016
 
-Today I plan on using some of the missing data flags in the dataset to apply
-custom rules for different missingness patterns. If this goes smoothly, I also
-intend to do some work identifying my own set of flags for missing patterns in the
-data. This will involve a lot of EDA work and some careful use of conditional and
+Today I investigated the missing data flags in the dataset to apply
+custom rules for different missingness patterns. I specifically identified
+when only a few arbitrary months of data were missing and reconciled the case
+where that data is not reported at all and cases where the data is included in
+another month of reporting.
+
+This involved a lot of EDA work and some careful use of conditional and
 logical statements to come up with strong business logic that captures different
-cases.
+cases. I also wrote a few more cleaning functions using `dplyr`. 
 
 #### 09/20/2016
 
