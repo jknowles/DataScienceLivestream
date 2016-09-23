@@ -12,7 +12,7 @@ For the week of 09/19/2016 the plan is to stream:
 - 09/20 - 2pm - 3pm Eastern
 - 09/21 - 2pm - 3pm Eastern
 - 09/22 - 9:30am - 11am Eastern
-- 09/23 - 3pm - 4:30pm Eastern
+- 09/23 - 1pm - 2:30pm Eastern
 
 Check out my [Twitter account for updates](http://www.twitter.com/jknowles).
 
@@ -29,6 +29,12 @@ some other questions answered over on the [FAQ](pages/faq.html).
 
 Here I'll catch you up on my progress so when you tune in you can see what I've
 done and where I'm at for the day.
+
+#### 09/23/2016
+
+Looks like I am going to start an analysis of crime rates to see if
+I can use this as a prototype to identify other errors and issues in
+ the data that need cleaning. 
 
 #### 09/22/2016
 
@@ -48,7 +54,7 @@ another month of reporting.
 
 This involved a lot of EDA work and some careful use of conditional and
 logical statements to come up with strong business logic that captures different
-cases. I also wrote a few more cleaning functions using `dplyr`. 
+cases. I also wrote a few more cleaning functions using `dplyr`.
 
 #### 09/20/2016
 
