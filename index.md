@@ -7,12 +7,13 @@ description: Watch a data scientist at work
 
 ### When is the next stream?
 
-For the week of 09/19/2016 the plan is to stream:
+For the week of 09/26/2016 the plan is to stream:
 
-- 09/20 - 2pm - 3pm Eastern
-- 09/21 - 2pm - 3pm Eastern
-- 09/22 - 9:30am - 11am Eastern
-- 09/23 - 1pm - 2:30pm Eastern
+- 09/26 - 9:30am - 11:30am Eastern (1:30pm - 3:30pm UTC)
+- 09/27 - 9:30am - 11:30am Eastern (1:30pm - 3:30pm UTC)
+- 09/28 - 9:30am - 11:30am Eastern (1:30pm - 3:30pm UTC)
+- 09/29 - 1:30pm - 4pm Eastern (5:30pm - 9pm UTC)
+- 09/30 - 1:30pm - 4pm Eastern (5:30pm - 9pm UTC)
 
 Check out my [Twitter account for updates](http://www.twitter.com/jknowles).
 
@@ -30,11 +31,21 @@ some other questions answered over on the [FAQ](pages/faq.html).
 Here I'll catch you up on my progress so when you tune in you can see what I've
 done and where I'm at for the day.
 
+#### 09/26/2016
+
+I plan on trying to recreate some basic calculations from the FBI's Crime in
+United States report series which uses UCR data to report on trends in national
+and state crime levels in the United States.
+
 #### 09/23/2016
 
-Looks like I am going to start an analysis of crime rates to see if
-I can use this as a prototype to identify other errors and issues in
- the data that need cleaning. 
+Started some exploratory data analysis. I looked at basic calculations of
+crime rates per population and I looked for reporting errors and outliers in
+reporting by year, by state, and by month using both graphs and summary
+statistics.
+
+I also started thinking about how to recreate FBI reported crime rates to
+calibrate my understanding of the data.
 
 #### 09/22/2016
 

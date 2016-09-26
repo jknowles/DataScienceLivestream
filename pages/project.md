@@ -50,7 +50,9 @@ by enforcing business rules to deal with various issues in the data (e.g.
 #### Joining Additional Data
 
 After I have wrangled the main dataset (UCR crime reports) I plan on joining
-contextual data to help me understand the patterns in crime reporting.
+contextual data to help me understand the patterns in crime reporting. I will
+be looking at the issues related to linking datasets at varying levels of
+aggregation and exploring which strategies match the analyses I plan to do best.
 
 #### Modeling
 
@@ -60,4 +62,4 @@ Fitting models to explain patterns in the data.
 #### Visualization
 
 Explaining and exploring the models and findings above and sharing them with
-others. 
+others.
