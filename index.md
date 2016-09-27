@@ -10,7 +10,7 @@ description: Watch a data scientist at work
 For the week of 09/26/2016 the plan is to stream:
 
 - 09/26 - 9:30am - 11:30am Eastern (1:30pm - 3:30pm UTC)
-- 09/27 - 9:30am - 11:30am Eastern (1:30pm - 3:30pm UTC)
+- 09/27 - 9:30am - 11:30am Eastern (1:30pm - 3:30pm UTC) (DELAYED)
 - 09/28 - 9:30am - 11:30am Eastern (1:30pm - 3:30pm UTC)
 - 09/29 - 1:30pm - 4pm Eastern (5:30pm - 9pm UTC)
 - 09/30 - 1:30pm - 4pm Eastern (5:30pm - 9pm UTC)
