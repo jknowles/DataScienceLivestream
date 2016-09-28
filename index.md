@@ -31,6 +31,15 @@ some other questions answered over on the [FAQ](pages/faq.html).
 Here I'll catch you up on my progress so when you tune in you can see what I've
 done and where I'm at for the day.
 
+#### 09/28/2016
+
+Today I'm going to work on ingesting another complimentary set of data.
+
+#### 09/27/2016
+
+Instead of boring everyone with my head scratching I spent the day diving deeper
+into data definitions and exploring some of the data requirements.
+
 #### 09/26/2016
 
 I plan on trying to recreate some basic calculations from the FBI's Crime in
