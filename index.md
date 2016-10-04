@@ -11,7 +11,7 @@ For the week of 10/03/2016 the plan is to stream:
 
 - 10/03 - 1:30pm - 4pm Eastern (5:30pm - 9pm UTC)
 - 10/04 - 9:30am - 11:30am Eastern (1:30pm - 3:30pm UTC)
-- 10/05 - 9:30am - 11:30am Eastern (1:30pm - 3:30pm UTC)
+- 10/05 - 10:15am - 11:45am Eastern (2:15pm - 3:45pm UTC)
 - 10/06 - 1:30pm - 4pm Eastern (5:30pm - 9pm UTC)
 - 10/07 - 1:30pm - 4pm Eastern (5:30pm - 9pm UTC)
 
@@ -31,13 +31,48 @@ some other questions answered over on the [FAQ](pages/faq.html).
 Here I'll catch you up on my progress so when you tune in you can see what I've
 done and where I'm at for the day.
 
-#### 09/28/2016
+#### 10/05/2016
+
+More investigation of data problems and validation against published figures. I
+do some EDA on the arrest data to check my understanding and identify possible
+tests I can write to validate my ETL process. 
+
+#### 10/04/2016
+
+I talk about slow data analysis and the upside of methodically working through
+simple problems in the data to increase understanding and fluency with the
+basic foundations of the data set. I identify some big holes in the data and
+discuss where other potential reporting errors/inconsistencies might be hiding.
+I talk about why it is critical to seek these out.
+
+#### 10/03/2016
+
+Back on track I dig back into the data to try to validate my data sources by
+recreating publicly published statistics from the FBI. I discuss the issues
+with how the data was collected and talk about how understanding the data
+generation process helps to diagnose potential issues with your understanding
+of the data and how to check them.
+
+#### 09/30/2016
+
+After setting up my new data architecture that includes a PostGres database
+running in a Docker container, I talk about how to ETL data into a database and
+work through parsing the data I have from the FBI on arrests. I do some
+data inspection, data cleaning, and writing and reading from the database.
+
+#### 09/29/2016
 
 I showed off the new architecture using a Ubuntu Server virtual machine, a
 Postgres database running in a docker container, and RStudio server. I then
 talked about ETL work and the thinking through of how to organize raw data
 into tables in the database for querying. I then showed a bit of my ETL
 workflow and talked about deduplicating data before writing it to the database.
+
+#### 09/28/2016
+
+I find some new data on arrests that is necessary to recreate the FBI reports.
+I show how to organize that data and how to modify code to ingest that data
+into R and store in a SQLite database.
 
 #### 09/27/2016
 
