@@ -13,7 +13,7 @@ For the week of 10/03/2016 the plan is to stream:
 - 10/04 - 9:30am - 11:30am Eastern (1:30pm - 3:30pm UTC)
 - 10/05 - 10:15am - 11:45am Eastern (2:15pm - 3:45pm UTC)
 - 10/06 - 1:30pm - 4pm Eastern (5:30pm - 9pm UTC)
-- 10/07 - 1:30pm - 4pm Eastern (5:30pm - 9pm UTC)
+- 10/07 - 1:30pm - 4pm Eastern (5:30pm - 9pm UTC) [CANCELLED]
 
 Check out my [Twitter account for updates](http://www.twitter.com/jknowles).
 
@@ -31,11 +31,20 @@ some other questions answered over on the [FAQ](pages/faq.html).
 Here I'll catch you up on my progress so when you tune in you can see what I've
 done and where I'm at for the day.
 
+#### 10/07/2016
+
+Unfortunately the livestream is canceled. The internet is not reliable today
+and my uplink is too slow to stream. 
+
+#### 10/06/2016
+
+A little EDA.
+
 #### 10/05/2016
 
 More investigation of data problems and validation against published figures. I
 do some EDA on the arrest data to check my understanding and identify possible
-tests I can write to validate my ETL process. 
+tests I can write to validate my ETL process.
 
 #### 10/04/2016
 
