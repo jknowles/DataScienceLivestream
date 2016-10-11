@@ -7,13 +7,8 @@ description: Watch a data scientist at work
 
 ### When is the next stream?
 
-For the week of 10/03/2016 the plan is to stream:
-
-- 10/03 - 1:30pm - 4pm Eastern (5:30pm - 9pm UTC)
-- 10/04 - 9:30am - 11:30am Eastern (1:30pm - 3:30pm UTC)
-- 10/05 - 10:15am - 11:45am Eastern (2:15pm - 3:45pm UTC)
-- 10/06 - 1:30pm - 4pm Eastern (5:30pm - 9pm UTC)
-- 10/07 - 1:30pm - 4pm Eastern (5:30pm - 9pm UTC) [CANCELLED]
+The data science livestream is taking a break while I am on vacation. Streams
+will resume on Monday 10/24/2016.
 
 Check out my [Twitter account for updates](http://www.twitter.com/jknowles).
 
@@ -34,7 +29,7 @@ done and where I'm at for the day.
 #### 10/07/2016
 
 Unfortunately the livestream is canceled. The internet is not reliable today
-and my uplink is too slow to stream. 
+and my uplink is too slow to stream.
 
 #### 10/06/2016
 
